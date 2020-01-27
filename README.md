@@ -4,4 +4,8 @@
 
 - Challenge list: https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php#EDITOR
 - 매일 1개의 챌린지를 선택해서 코딩
-- 2020년 1월 25일 토요일 시작
+
+## 목록
+
+- **Jan25 - Day and Time**: Write a JavaScript program to display the current day and time in the following format.
+- **Jan27 - Simple Calculator**: Write a JavaScript program to calculate multiplication and division of two numbers (input from user).
