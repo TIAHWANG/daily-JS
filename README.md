@@ -8,4 +8,7 @@
 ## 목록
 
 - **Jan25 - Day and Time**: Write a JavaScript program to display the current day and time in the following format.
+  <br>
 - **Jan27 - Simple Calculator**: Write a JavaScript program to calculate multiplication and division of two numbers (input from user).
+  <br>
+- **Jan 28 - Switch Alphabet**: Write a JavaScript program to switch case of the minimum possible number of letters to make a given string written in the upper case or in the lower case.
