@@ -2,17 +2,15 @@
 
 ## 자바스크립트 연습
 
-- Challenge list
-  - https://www.w3resource.com/javascript-exercises/
-  - https://www.codewars.com/
-- 매일 1개의 챌린지 코딩
+💪🏼
 
 ## 목록
 
-- **Jan25 - Day and Time**: display the current day and time.
-  <br>
-- **Jan27 - Simple Calculator**: calculate multiplication and division of two numbers (input from user).
-  <br>
-- **Jan28 - Switch Alphabet**: switch case of the minimum possible number of letters to make a given string written in the upper case or in the lower case.
-  <br>
-- **Jan29 - Add Alphabet**: create a new string from a given string with the first character of the given string added at the front and back.
+### 1. 2020.01
+- **Jan25 - Day and Time**: 오늘 날짜와 실시간 시간보이기 <br>
+- **Jan27 - Simple Calculator**: 간단한 계산기 <br>
+- **Jan28 - Switch Alphabet**: 대문자/소문자 변환기 <br>
+- **Jan29 - Add Alphabet**: 영어단어의 앞글자를 단어 앞/뒤에 추가하기 <br>
+
+### 2. 2020.02
+- **Feb6 - B-day Countdown**: 생일 디데이 카운트

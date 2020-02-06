@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:500&display=swap");
+* {
+  box-sizing: border-box;
+}
+body {
+  background-image: url("https://images.unsplash.com/photo-1464347601390-25e2842a37f7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1385&q=80");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  height: 100vh;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+h1 {
+  font-size: 50px;
+  text-transform: uppercase;
+  margin: -200px 0 30px;
+}
+.countdown {
+  display: flex;
+}
+.countdown .box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.year {
+  font-size: 150px;
+  z-index: -1;
+  opacity: 0.5;
+  position: absolute;
+  bottom: 200px;
+  left: 50%;
+  transform: translate(-50%);
+}
+.birthday {
+  display: none;
+  font-size: 50px;
+  margin-top: -200px;
+}
